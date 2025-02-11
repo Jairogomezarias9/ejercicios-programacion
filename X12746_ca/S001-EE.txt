@@ -1,0 +1,11 @@
+---
+problem_id: X12746_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-09 12:41:43"
+time_out: "2024-03-09 12:41:49"
+veredict: EE
+veredict_info: abnormal program termination
+title: Vectors amb resize, i push i pop a front i back
+...

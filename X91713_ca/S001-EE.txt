@@ -1,0 +1,11 @@
+---
+problem_id: X91713_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-26 15:29:33"
+time_out: "2024-03-26 15:29:44"
+veredict: EE
+veredict_info: time limit exceeded
+title: "Cam\xED m\xE9s llarg en un arbre"
+...

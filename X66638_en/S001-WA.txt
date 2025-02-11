@@ -1,0 +1,11 @@
+---
+problem_id: X66638_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-09-30 16:01:10"
+time_out: "2023-09-30 16:01:14"
+veredict: WA
+veredict_info: ~
+title: First odd digits (1,3,5,7,9), next positive even digits (2,4,6,8)
+...

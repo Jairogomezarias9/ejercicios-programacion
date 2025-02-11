@@ -1,0 +1,12 @@
+---
+problem_id: X96493_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2024-01-03 17:23:57"
+time_out: "2024-01-03 17:24:01"
+veredict: AC
+veredict_info: ~
+title: Consecutive numbers at distance less than or equal to 2, only two consecutives
+  at distance 1.
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X86445_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-05 21:49:46"
+time_out: "2024-06-05 21:49:52"
+veredict: AC
+veredict_info: ~
+title: "M\xE8tode de Queue per a multiplicar els elements de la cua per un par\xE0metre"
+...

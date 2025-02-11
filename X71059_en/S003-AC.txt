@@ -1,0 +1,11 @@
+---
+problem_id: X71059_en
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2023-12-27 16:09:52"
+time_out: "2023-12-27 16:09:59"
+veredict: AC
+veredict_info: ~
+title: Programming teams balanced in solidarity
+...

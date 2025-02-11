@@ -1,0 +1,12 @@
+---
+problem_id: X48340_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-06 19:00:48"
+time_out: "2024-06-06 19:00:53"
+veredict: EE
+veredict_info: invalid memory reference
+title: Modificar operadors ++ i -- dels iteradors de la classe List per a que siguin
+  circulars
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P54070_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-02 19:37:46"
+time_out: "2025-01-02 19:38:02"
+veredict: AC
+veredict_info: ~
+title: "Posici\xF3 d'inserci\xF3 m\xE9s a la dreta"
+...

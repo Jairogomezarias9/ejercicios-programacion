@@ -1,0 +1,11 @@
+---
+problem_id: P51352_es
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-09-24 21:00:31"
+time_out: "2023-09-24 21:00:35"
+veredict: AC
+veredict_info: ~
+title: Elementos
+...

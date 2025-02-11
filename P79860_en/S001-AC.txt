@@ -1,0 +1,11 @@
+---
+problem_id: P79860_en
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2024-02-22 16:22:51"
+time_out: "2024-02-22 16:23:09"
+veredict: AC
+veredict_info: ~
+title: Bars (2)
+...

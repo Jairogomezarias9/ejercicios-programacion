@@ -1,0 +1,11 @@
+---
+problem_id: P29094_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-12-26 10:46:55"
+time_out: "2023-12-26 10:47:00"
+veredict: WA
+veredict_info: ~
+title: Position of the maximum
+...

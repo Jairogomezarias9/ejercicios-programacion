@@ -1,0 +1,12 @@
+---
+problem_id: X41197_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-06 18:44:15"
+time_out: "2024-06-06 18:44:21"
+veredict: AC
+veredict_info: ~
+title: "M\xE8tode de llistes per a moure l'element apuntat per un iterador al final
+  de la llista"
+...

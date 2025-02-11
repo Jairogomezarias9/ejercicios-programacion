@@ -1,0 +1,11 @@
+---
+problem_id: S59856_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2024-11-25 10:03:55"
+time_out: "2024-11-25 10:04:25"
+veredict: WA
+veredict_info: ~
+title: HarryPotter-FIB
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P45102_en
+submission_id: S003
+compiler_id: G++
+annotation: ~
+time_in: "2024-02-23 12:09:57"
+time_out: "2024-02-23 12:10:03"
+veredict: AC
+veredict_info: ~
+title: Completely parenthesed expression
+...

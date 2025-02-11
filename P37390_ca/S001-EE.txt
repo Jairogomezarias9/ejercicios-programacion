@@ -1,0 +1,11 @@
+---
+problem_id: P37390_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-11-29 09:28:58"
+time_out: "2023-11-29 09:29:02"
+veredict: EE
+veredict_info: invalid memory reference
+title: Productes de matrius quadrades
+...

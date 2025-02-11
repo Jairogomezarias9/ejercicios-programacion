@@ -1,0 +1,11 @@
+---
+problem_id: P90766_ca
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2024-12-29 19:17:32"
+time_out: "2024-12-29 19:17:39"
+veredict: AC
+veredict_info: ~
+title: Tresors en un mapa (3)
+...

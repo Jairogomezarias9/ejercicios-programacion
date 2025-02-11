@@ -1,0 +1,11 @@
+---
+problem_id: X60047_ca
+submission_id: S003
+compiler_id: G++
+annotation: ~
+time_in: "2024-03-08 16:28:24"
+time_out: "2024-03-08 16:28:29"
+veredict: EE
+veredict_info: time limit exceeded
+title: Punt mig d'una llista
+...

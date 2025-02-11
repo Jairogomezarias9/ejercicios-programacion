@@ -1,0 +1,11 @@
+---
+problem_id: P81966_ca
+submission_id: S006
+compiler_id: Clang++17
+annotation: ~
+time_in: "2024-10-15 08:11:45"
+time_out: "2024-10-15 08:11:52"
+veredict: CE
+veredict_info: ~
+title: "Cerca dicot\xF2mica"
+...

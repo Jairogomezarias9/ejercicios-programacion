@@ -1,0 +1,11 @@
+---
+problem_id: X07174_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-02 19:25:51"
+time_out: "2025-01-02 19:26:17"
+veredict: AC
+veredict_info: ~
+title: Nombres sense prefixos prohibits
+...

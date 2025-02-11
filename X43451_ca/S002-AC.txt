@@ -1,0 +1,11 @@
+---
+problem_id: X43451_ca
+submission_id: S002
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-04-19 12:32:04"
+time_out: "2024-04-19 12:32:14"
+veredict: AC
+veredict_info: ~
+title: Arrodonir un vector d'estudiants  (no main)
+...

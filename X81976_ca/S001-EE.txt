@@ -1,0 +1,11 @@
+---
+problem_id: X81976_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2024-01-03 15:38:47"
+time_out: "2024-01-03 15:38:52"
+veredict: EE
+veredict_info: time limit exceeded
+title: "Comptar ocurr\xE8ncies de cada d\xEDgit en la seva fila i columna"
+...

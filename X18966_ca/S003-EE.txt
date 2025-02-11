@@ -1,0 +1,11 @@
+---
+problem_id: X18966_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-07 09:04:55"
+time_out: "2024-06-07 09:05:02"
+veredict: EE
+veredict_info: output limit exceeded
+title: "Afegir elements a una Queue nom\xE9s si continua siguent creixent."
+...

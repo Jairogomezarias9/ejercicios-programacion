@@ -1,0 +1,11 @@
+---
+problem_id: X68213_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-03 10:50:40"
+time_out: "2024-03-03 10:50:47"
+veredict: AC
+veredict_info: ~
+title: Biblioteca
+...

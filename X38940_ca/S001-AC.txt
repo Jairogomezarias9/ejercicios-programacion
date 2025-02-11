@@ -1,0 +1,11 @@
+---
+problem_id: X38940_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-28 18:25:19"
+time_out: "2024-03-28 18:25:29"
+veredict: AC
+veredict_info: ~
+title: Avaluar expressions booleanes
+...

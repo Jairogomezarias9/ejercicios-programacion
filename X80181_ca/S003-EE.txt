@@ -1,0 +1,11 @@
+---
+problem_id: X80181_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-04-05 11:53:25"
+time_out: "2024-04-05 11:53:34"
+veredict: EE
+veredict_info: time limit exceeded
+title: Insertar sumes de prefixos en una llista (Pro2)
+...

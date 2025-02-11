@@ -1,0 +1,11 @@
+---
+problem_id: P27258_ca
+submission_id: S005
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-11 12:46:50"
+time_out: "2025-01-11 12:46:56"
+veredict: AC
+veredict_info: ~
+title: Monstres en un mapa
+...

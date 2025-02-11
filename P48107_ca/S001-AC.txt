@@ -1,0 +1,11 @@
+---
+problem_id: P48107_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-09-24 20:34:16"
+time_out: "2023-09-24 20:34:20"
+veredict: AC
+veredict_info: ~
+title: "Divisi\xF3 entera i residu de dos naturals"
+...

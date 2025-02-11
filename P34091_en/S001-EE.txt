@@ -1,0 +1,11 @@
+---
+problem_id: P34091_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-11-08 08:47:34"
+time_out: "2023-11-08 08:47:38"
+veredict: EE
+veredict_info: time limit exceeded
+title: Perfect numbers
+...

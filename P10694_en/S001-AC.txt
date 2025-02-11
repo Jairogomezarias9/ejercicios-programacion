@@ -1,0 +1,11 @@
+---
+problem_id: P10694_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-11-15 08:32:08"
+time_out: "2023-11-15 08:32:15"
+veredict: AC
+veredict_info: ~
+title: Bars (3)
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P75149_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-10-09 19:47:17"
+time_out: "2023-10-09 19:47:22"
+veredict: CE
+veredict_info: ~
+title: Looking for an a
+...

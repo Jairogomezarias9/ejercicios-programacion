@@ -1,0 +1,11 @@
+---
+problem_id: X13208_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-12 10:17:39"
+time_out: "2025-01-12 10:17:49"
+veredict: AC
+veredict_info: ~
+title: Path on a board
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X69025_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-07 10:53:38"
+time_out: "2024-06-07 10:53:44"
+veredict: EE
+veredict_info: invalid memory reference
+title: Agafar elements del cim d'un altre Stack en ordre invers
+...

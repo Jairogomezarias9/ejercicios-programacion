@@ -1,0 +1,11 @@
+---
+problem_id: X88601_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2024-02-22 16:04:59"
+time_out: "2024-02-22 16:05:03"
+veredict: AC
+veredict_info: ~
+title: reverseSubstring
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P39846_en
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2024-12-28 17:53:43"
+time_out: "2024-12-28 17:53:51"
+veredict: AC
+veredict_info: ~
+title: Treasures in a map (4)
+...

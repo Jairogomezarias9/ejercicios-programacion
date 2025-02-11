@@ -1,0 +1,11 @@
+---
+problem_id: X91811_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-26 15:05:26"
+time_out: "2024-03-26 15:05:36"
+veredict: AC
+veredict_info: ~
+title: Suma dels valors d'un arbre a profunditat parell
+...

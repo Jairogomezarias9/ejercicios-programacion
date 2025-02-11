@@ -1,0 +1,11 @@
+---
+problem_id: P84415_ca
+submission_id: S007
+compiler_id: Clang++17
+annotation: ~
+time_in: "2024-09-15 13:35:30"
+time_out: "2024-09-15 13:35:42"
+veredict: WA
+veredict_info: ~
+title: La bossa de les paraules
+...

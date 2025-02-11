@@ -1,0 +1,11 @@
+---
+problem_id: P27498_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-11-29 08:34:29"
+time_out: "2023-11-29 08:34:34"
+veredict: AC
+veredict_info: ~
+title: Matriu transposta
+...

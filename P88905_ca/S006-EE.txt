@@ -1,0 +1,11 @@
+---
+problem_id: P88905_ca
+submission_id: S006
+compiler_id: P1++
+annotation: ~
+time_in: "2023-11-29 09:14:31"
+time_out: "2023-11-29 09:14:35"
+veredict: EE
+veredict_info: invalid memory reference
+title: Productes de matrius qualssevol
+...

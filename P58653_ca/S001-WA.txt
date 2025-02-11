@@ -1,0 +1,11 @@
+---
+problem_id: P58653_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-11-08 10:17:15"
+time_out: "2023-11-08 10:17:20"
+veredict: WA
+veredict_info: ~
+title: "Classificaci\xF3 de car\xE0cters (2)"
+...

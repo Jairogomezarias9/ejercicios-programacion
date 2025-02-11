@@ -1,0 +1,11 @@
+---
+problem_id: X29122_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-24 17:12:01"
+time_out: "2024-03-24 17:12:13"
+veredict: AC
+veredict_info: ~
+title: "Executar assignaci\xF3, print, if i while"
+...

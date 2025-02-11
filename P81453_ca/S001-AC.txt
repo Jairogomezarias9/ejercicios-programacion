@@ -1,0 +1,11 @@
+---
+problem_id: P81453_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-03 12:33:26"
+time_out: "2025-01-03 12:33:34"
+veredict: AC
+veredict_info: ~
+title: "Cam\xED m\xE9s curt"
+...

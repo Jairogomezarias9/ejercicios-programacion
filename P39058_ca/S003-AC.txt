@@ -1,0 +1,11 @@
+---
+problem_id: P39058_ca
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-11 19:40:01"
+time_out: "2025-01-11 19:40:09"
+veredict: AC
+veredict_info: ~
+title: I2P02. El cavall menja-flors
+...

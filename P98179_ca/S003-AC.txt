@@ -1,0 +1,11 @@
+---
+problem_id: P98179_ca
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2023-12-26 10:32:42"
+time_out: "2023-12-26 10:32:46"
+veredict: AC
+veredict_info: ~
+title: "Inserci\xF3 en taula ordenada"
+...

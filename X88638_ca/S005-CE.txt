@@ -1,0 +1,11 @@
+---
+problem_id: X88638_ca
+submission_id: S005
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-04-05 10:49:57"
+time_out: "2024-04-05 10:50:05"
+veredict: CE
+veredict_info: ~
+title: Nombre de bessons (parelles de nodes germans amb el mateix valor)
+...

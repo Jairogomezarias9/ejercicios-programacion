@@ -1,0 +1,11 @@
+---
+problem_id: X54177_es
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-02-16 12:07:52"
+time_out: "2024-02-16 12:07:56"
+veredict: AC
+veredict_info: ~
+title: Suma de secuencias de enteros
+...

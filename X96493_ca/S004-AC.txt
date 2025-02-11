@@ -1,0 +1,12 @@
+---
+problem_id: X96493_ca
+submission_id: S004
+compiler_id: P1++
+annotation: ~
+time_in: "2024-01-13 22:46:53"
+time_out: "2024-01-13 22:46:57"
+veredict: AC
+veredict_info: ~
+title: "Nombres consecutius a distancia menor o igual a 2, nom\xE9s dos consecutius
+  a dist\xE0ncia 1."
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P69781_ca
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2024-09-10 09:34:26"
+time_out: "2024-09-10 09:34:32"
+veredict: WA
+veredict_info: ~
+title: "Pseudo-seq\xFC\xE8ncies de Collatz (2)"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P15613_ca
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2023-09-20 09:42:06"
+time_out: "2023-09-20 09:42:10"
+veredict: AC
+veredict_info: ~
+title: Temperatures
+...

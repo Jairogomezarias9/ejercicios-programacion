@@ -1,0 +1,11 @@
+---
+problem_id: P87462_ca
+submission_id: S008
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-11 23:02:35"
+time_out: "2025-01-11 23:02:41"
+veredict: AC
+veredict_info: ~
+title: Pac-man
+...

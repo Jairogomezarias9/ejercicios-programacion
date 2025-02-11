@@ -1,0 +1,11 @@
+---
+problem_id: P51126_en
+submission_id: S004
+compiler_id: P1++
+annotation: ~
+time_in: "2023-09-20 18:41:53"
+time_out: "2023-09-20 18:41:58"
+veredict: AC
+veredict_info: ~
+title: Intervals (1)
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X18913_es
+submission_id: S002
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-02-16 12:25:54"
+time_out: "2024-02-16 12:26:00"
+veredict: CE
+veredict_info: ~
+title: "B\xFAsqueda lineal en un vector (no main)"
+...

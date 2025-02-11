@@ -1,0 +1,11 @@
+---
+problem_id: P33412_en
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2024-10-15 09:41:10"
+time_out: "2024-10-15 09:41:27"
+veredict: WA
+veredict_info: ~
+title: Resistant dichotomic search
+...

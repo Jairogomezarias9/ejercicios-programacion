@@ -1,0 +1,11 @@
+---
+problem_id: P22295_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2024-12-29 11:43:06"
+time_out: "2024-12-29 11:43:15"
+veredict: AC
+veredict_info: ~
+title: La tortuga viatgera
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P90620_en
+submission_id: S006
+compiler_id: P1++
+annotation: ~
+time_in: "2023-10-15 17:29:42"
+time_out: "2023-10-15 17:29:45"
+veredict: WA
+veredict_info: ~
+title: Pica d'Estats
+...

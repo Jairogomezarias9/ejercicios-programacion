@@ -1,0 +1,11 @@
+---
+problem_id: X12746_ca
+submission_id: S018
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-17 11:41:23"
+time_out: "2024-03-17 11:41:31"
+veredict: WA
+veredict_info: ~
+title: Vectors amb resize, i push i pop a front i back
+...

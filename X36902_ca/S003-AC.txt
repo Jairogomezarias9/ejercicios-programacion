@@ -1,0 +1,11 @@
+---
+problem_id: X36902_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-03 09:51:29"
+time_out: "2024-03-03 09:51:33"
+veredict: AC
+veredict_info: ~
+title: Avaluacio d'una expressio amb parentesis
+...

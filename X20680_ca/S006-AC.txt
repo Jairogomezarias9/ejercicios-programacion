@@ -1,0 +1,11 @@
+---
+problem_id: X20680_ca
+submission_id: S006
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-11 09:47:31"
+time_out: "2025-01-11 09:47:44"
+veredict: AC
+veredict_info: ~
+title: Paraules amb x, y i z
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X30485_en
+submission_id: S004
+compiler_id: P1++
+annotation: ~
+time_in: "2023-12-13 08:57:52"
+time_out: "2023-12-13 08:57:58"
+veredict: EE
+veredict_info: time limit exceeded
+title: Mass center of particles moving at constant velocity
+...

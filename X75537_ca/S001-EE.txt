@@ -1,0 +1,11 @@
+---
+problem_id: X75537_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-16 11:23:26"
+time_out: "2024-03-16 11:23:37"
+veredict: EE
+veredict_info: abnormal program termination
+title: "Cerca en un BST (arbre de cerca bin\xE0ria)"
+...

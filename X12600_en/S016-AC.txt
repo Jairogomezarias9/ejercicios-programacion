@@ -1,0 +1,11 @@
+---
+problem_id: X12600_en
+submission_id: S016
+compiler_id: P1++
+annotation: ~
+time_in: "2023-10-08 16:06:01"
+time_out: "2023-10-08 16:06:05"
+veredict: AC
+veredict_info: ~
+title: Generating sequences of rombes
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P56143_ca
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-11 20:40:46"
+time_out: "2025-01-11 20:40:53"
+veredict: PE
+veredict_info: ~
+title: Pagesos i cavaller
+...

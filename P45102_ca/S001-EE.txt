@@ -1,0 +1,11 @@
+---
+problem_id: P45102_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2024-02-22 16:21:10"
+time_out: "2024-02-22 16:21:16"
+veredict: EE
+veredict_info: time limit exceeded
+title: "Expressi\xF3 completament parentitzada"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P57474_en
+submission_id: S005
+compiler_id: P1++
+annotation: ~
+time_in: "2023-11-06 15:17:30"
+time_out: "2023-11-06 15:17:36"
+veredict: WA
+veredict_info: ~
+title: Iterative factorial
+...

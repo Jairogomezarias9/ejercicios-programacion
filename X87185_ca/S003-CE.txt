@@ -1,0 +1,11 @@
+---
+problem_id: X87185_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-06 19:33:13"
+time_out: "2024-06-06 19:33:18"
+veredict: CE
+veredict_info: ~
+title: "M\xE8tode de Stack per a esborrar el primer element igual al par\xE0metre"
+...

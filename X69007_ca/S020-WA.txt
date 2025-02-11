@@ -1,0 +1,11 @@
+---
+problem_id: X69007_ca
+submission_id: S020
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-07 11:19:31"
+time_out: "2024-06-07 11:19:38"
+veredict: WA
+veredict_info: ~
+title: "M\xE8tode de la classe Arbre per a comptar el nombre de bessons"
+...

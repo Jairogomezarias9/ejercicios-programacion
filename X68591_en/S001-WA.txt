@@ -1,0 +1,11 @@
+---
+problem_id: X68591_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-13 16:01:53"
+time_out: "2025-01-13 16:02:01"
+veredict: WA
+veredict_info: ~
+title: Maximum and minimum connected component
+...

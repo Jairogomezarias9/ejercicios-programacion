@@ -1,0 +1,11 @@
+---
+problem_id: P65171_ca
+submission_id: S003
+compiler_id: P1++
+annotation: ~
+time_in: "2023-10-21 12:53:38"
+time_out: "2023-10-21 12:53:41"
+veredict: AC
+veredict_info: ~
+title: Control C202B
+...

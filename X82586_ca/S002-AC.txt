@@ -1,0 +1,12 @@
+---
+problem_id: X82586_ca
+submission_id: S002
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-06 19:13:52"
+time_out: "2024-06-06 19:13:58"
+veredict: AC
+veredict_info: ~
+title: "Implementar m\xE8tode de la classe Stack per a intercanviar els dos elements
+  del top"
+...

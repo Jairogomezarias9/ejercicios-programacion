@@ -1,0 +1,11 @@
+---
+problem_id: P43859_en
+submission_id: S009
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-12 12:35:02"
+time_out: "2025-01-12 12:35:15"
+veredict: AC
+veredict_info: ~
+title: Weighted shortest path (1)
+...

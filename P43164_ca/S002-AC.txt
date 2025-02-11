@@ -1,0 +1,11 @@
+---
+problem_id: P43164_ca
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-03 23:46:52"
+time_out: "2025-01-03 23:47:02"
+veredict: AC
+veredict_info: ~
+title: Tresors en un mapa (5)
+...

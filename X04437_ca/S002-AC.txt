@@ -1,0 +1,11 @@
+---
+problem_id: X04437_ca
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2023-11-06 14:59:05"
+time_out: "2023-11-06 14:59:10"
+veredict: AC
+veredict_info: ~
+title: "Dist\xE0ncia a l'origen"
+...

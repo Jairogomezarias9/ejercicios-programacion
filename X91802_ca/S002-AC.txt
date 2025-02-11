@@ -1,0 +1,11 @@
+---
+problem_id: X91802_ca
+submission_id: S002
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-04-19 12:12:07"
+time_out: "2024-04-19 12:12:16"
+veredict: AC
+veredict_info: ~
+title: "Nota m\xE0xima i m\xEDnima d'un vector d'estudiants (no main)"
+...

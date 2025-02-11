@@ -1,0 +1,11 @@
+---
+problem_id: P97156_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-09-27 16:30:28"
+time_out: "2023-09-27 16:30:32"
+veredict: WA
+veredict_info: ~
+title: Numbers in an interval
+...

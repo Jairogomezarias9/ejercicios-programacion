@@ -1,0 +1,11 @@
+---
+problem_id: X87360_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-08 13:05:05"
+time_out: "2024-03-08 13:05:11"
+veredict: CE
+veredict_info: ~
+title: "Intersecci\xF3 de llistes ordenades"
+...

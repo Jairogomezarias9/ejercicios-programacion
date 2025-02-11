@@ -1,0 +1,11 @@
+---
+problem_id: X96935_ca
+submission_id: S004
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-03 09:26:11"
+time_out: "2024-03-03 09:26:20"
+veredict: AC
+veredict_info: ~
+title: "Pal\xEDndroms amb piles"
+...

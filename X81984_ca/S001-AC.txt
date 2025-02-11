@@ -1,0 +1,12 @@
+---
+problem_id: X81984_ca
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-10-28 15:07:49"
+time_out: "2023-10-28 15:07:53"
+veredict: AC
+veredict_info: ~
+title: "Donats tres nombres, comprova si algun d'ells \xE9s igual al promig dels altres
+  dos"
+...

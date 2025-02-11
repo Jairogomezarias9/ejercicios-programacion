@@ -1,0 +1,11 @@
+---
+problem_id: X20209_ca
+submission_id: S010
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-07 10:30:34"
+time_out: "2024-06-07 10:30:41"
+veredict: WA
+veredict_info: ~
+title: Evitar a un altre iterador a base de quedar-se quiet
+...

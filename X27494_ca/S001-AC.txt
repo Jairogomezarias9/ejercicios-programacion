@@ -1,0 +1,11 @@
+---
+problem_id: X27494_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-08 16:09:34"
+time_out: "2024-03-08 16:09:39"
+veredict: AC
+veredict_info: ~
+title: "Estad\xEDstiques d'una seq\xFC\xE8ncia d'enters amb esborrat"
+...

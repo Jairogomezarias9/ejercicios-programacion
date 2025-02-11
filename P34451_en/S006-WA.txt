@@ -1,0 +1,11 @@
+---
+problem_id: P34451_en
+submission_id: S006
+compiler_id: P1++
+annotation: ~
+time_in: "2023-10-21 12:21:59"
+time_out: "2023-10-21 12:22:03"
+veredict: WA
+veredict_info: ~
+title: Control C201C
+...

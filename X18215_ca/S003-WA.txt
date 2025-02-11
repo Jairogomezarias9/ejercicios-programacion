@@ -1,0 +1,11 @@
+---
+problem_id: X18215_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-16 23:58:23"
+time_out: "2024-03-16 23:58:29"
+veredict: WA
+veredict_info: ~
+title: "Reducci\xF3 de programes"
+...

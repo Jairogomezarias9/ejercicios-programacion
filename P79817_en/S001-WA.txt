@@ -1,0 +1,11 @@
+---
+problem_id: P79817_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-10-03 20:34:27"
+time_out: "2023-10-03 20:34:33"
+veredict: WA
+veredict_info: ~
+title: Powers
+...

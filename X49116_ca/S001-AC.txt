@@ -1,0 +1,11 @@
+---
+problem_id: X49116_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-02-18 15:57:48"
+time_out: "2024-02-18 15:57:54"
+veredict: AC
+veredict_info: ~
+title: "M\xE0xim i m\xEDnim d'un vector (no main)"
+...

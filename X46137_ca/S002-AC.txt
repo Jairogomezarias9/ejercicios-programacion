@@ -1,0 +1,11 @@
+---
+problem_id: X46137_ca
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-05 20:52:16"
+time_out: "2025-01-05 20:52:24"
+veredict: AC
+veredict_info: ~
+title: Paraules compensades
+...

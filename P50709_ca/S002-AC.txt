@@ -1,0 +1,11 @@
+---
+problem_id: P50709_ca
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2024-09-10 08:39:51"
+time_out: "2024-09-10 08:39:59"
+veredict: AC
+veredict_info: ~
+title: "Col\xB7lecci\xF3 de n\xFAmeros"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X88161_ca
+submission_id: S002
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-02-18 16:42:32"
+time_out: "2024-02-18 16:42:42"
+veredict: AC
+veredict_info: ~
+title: "Classificaci\xF3 de la lliga"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X81287_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-01 12:44:15"
+time_out: "2025-01-01 12:44:23"
+veredict: WA
+veredict_info: ~
+title: Rutes Barates
+...

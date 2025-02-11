@@ -1,0 +1,7 @@
+---
+name: Jairo Gomez Arias
+email: jairo.gomez@estudiantat.upc.edu
+webpage: ~
+affiliation: ~
+country_id: ES-Cat
+...

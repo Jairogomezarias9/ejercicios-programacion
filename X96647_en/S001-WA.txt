@@ -1,0 +1,11 @@
+---
+problem_id: X96647_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-12-23 18:49:13"
+time_out: "2023-12-23 18:49:16"
+veredict: WA
+veredict_info: ~
+title: Normalized vectors
+...

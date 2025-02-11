@@ -1,0 +1,11 @@
+---
+problem_id: X40596_ca
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-11 10:54:40"
+time_out: "2025-01-11 10:54:46"
+veredict: AC
+veredict_info: ~
+title: "Seq\xFC\xE8ncies equilibrades"
+...

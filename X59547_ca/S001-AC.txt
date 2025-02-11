@@ -1,0 +1,11 @@
+---
+problem_id: X59547_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-24 16:33:51"
+time_out: "2024-03-24 16:34:04"
+veredict: AC
+veredict_info: ~
+title: Avaluar expressions amb variables
+...

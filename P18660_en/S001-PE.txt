@@ -1,0 +1,11 @@
+---
+problem_id: P18660_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-12-11 19:40:41"
+time_out: "2023-12-11 19:40:47"
+veredict: PE
+veredict_info: ~
+title: Word search
+...

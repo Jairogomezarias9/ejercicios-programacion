@@ -1,0 +1,11 @@
+---
+problem_id: P71701_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2024-12-28 19:11:52"
+time_out: "2024-12-28 19:12:06"
+veredict: AC
+veredict_info: ~
+title: Peaceful kings
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X75537_ca
+submission_id: S005
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-03-16 11:26:28"
+time_out: "2024-03-16 11:26:38"
+veredict: AC
+veredict_info: ~
+title: "Cerca en un BST (arbre de cerca bin\xE0ria)"
+...

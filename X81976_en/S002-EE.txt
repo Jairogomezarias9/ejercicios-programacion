@@ -1,0 +1,11 @@
+---
+problem_id: X81976_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2024-01-03 16:30:09"
+time_out: "2024-01-03 16:30:14"
+veredict: EE
+veredict_info: time limit exceeded
+title: Count occurrences of each digit in its row and column
+...

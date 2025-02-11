@@ -1,0 +1,11 @@
+---
+problem_id: X20680_en
+submission_id: S007
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-12 09:18:16"
+time_out: "2025-01-12 09:18:33"
+veredict: WA
+veredict_info: ~
+title: Words with x, y and z
+...

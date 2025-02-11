@@ -1,0 +1,11 @@
+---
+problem_id: X20209_ca
+submission_id: S004
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-07 09:48:15"
+time_out: "2024-06-07 09:48:21"
+veredict: EE
+veredict_info: invalid memory reference
+title: Evitar a un altre iterador a base de quedar-se quiet
+...

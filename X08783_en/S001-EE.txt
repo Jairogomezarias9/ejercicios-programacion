@@ -1,0 +1,11 @@
+---
+problem_id: X08783_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+time_in: "2023-10-18 10:23:38"
+time_out: "2023-10-18 10:23:44"
+veredict: EE
+veredict_info: output limit exceeded
+title: How many digits?
+...

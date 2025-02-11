@@ -1,0 +1,11 @@
+---
+problem_id: X17005_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-03 20:34:41"
+time_out: "2024-06-03 20:34:46"
+veredict: CE
+veredict_info: ~
+title: "M\xE8tode per a moure el primer element d'una cua cap a la \xFAltima posici\xF3"
+...

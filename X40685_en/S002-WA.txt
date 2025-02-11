@@ -1,0 +1,11 @@
+---
+problem_id: X40685_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+time_in: "2023-10-05 19:25:12"
+time_out: "2023-10-05 19:25:17"
+veredict: WA
+veredict_info: ~
+title: Comparing results of operations
+...

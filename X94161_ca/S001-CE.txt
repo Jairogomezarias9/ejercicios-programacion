@@ -1,0 +1,11 @@
+---
+problem_id: X94161_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-06-01 10:42:11"
+time_out: "2024-06-01 10:42:17"
+veredict: CE
+veredict_info: ~
+title: "M\xE8tode de Stack per a accedir al segon element des del top"
+...

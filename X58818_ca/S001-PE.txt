@@ -1,0 +1,11 @@
+---
+problem_id: X58818_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2024-02-23 12:48:25"
+time_out: "2024-02-23 12:48:30"
+veredict: PE
+veredict_info: ~
+title: Recursivitat alterna
+...

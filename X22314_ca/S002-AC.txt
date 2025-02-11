@@ -1,0 +1,11 @@
+---
+problem_id: X22314_ca
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2025-01-11 20:02:17"
+time_out: "2025-01-11 20:02:25"
+veredict: AC
+veredict_info: ~
+title: Donacions
+...

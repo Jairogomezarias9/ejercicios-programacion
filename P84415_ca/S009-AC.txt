@@ -1,0 +1,11 @@
+---
+problem_id: P84415_ca
+submission_id: S009
+compiler_id: G++11
+annotation: ~
+time_in: "2024-12-29 11:15:21"
+time_out: "2024-12-29 11:15:33"
+veredict: AC
+veredict_info: ~
+title: La bossa de les paraules
+...

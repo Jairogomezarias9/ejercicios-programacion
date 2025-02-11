@@ -1,0 +1,11 @@
+---
+problem_id: X15283_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-04-05 12:12:29"
+time_out: "2024-04-05 12:12:36"
+veredict: WA
+veredict_info: ~
+title: "Cortxets ben tancats i par\xE8ntesis parcialment tancats."
+...

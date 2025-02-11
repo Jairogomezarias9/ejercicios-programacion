@@ -1,0 +1,11 @@
+---
+problem_id: X88638_ca
+submission_id: S008
+compiler_id: PRO2
+annotation: ~
+time_in: "2024-04-05 10:53:13"
+time_out: "2024-04-05 10:53:22"
+veredict: EE
+veredict_info: abnormal program termination
+title: Nombre de bessons (parelles de nodes germans amb el mateix valor)
+...
